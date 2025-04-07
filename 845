@@ -1,0 +1,31 @@
+{
+  "name": "FLOPPY #845",
+  "description": "OG curvance mascot built by the community for the community",
+  "image": "ipfs://CID/845.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyan"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "I Luv u"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sus"
+    }
+  ]
+}
